@@ -1,1 +1,2 @@
 cwd:/opt/render/project/src/database
+test:helloworld
