@@ -1,1 +1,1 @@
-cwd:/opt/render/project
+cwd:/opt/render/project/src
