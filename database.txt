@@ -1,1 +1,2 @@
-cwd:/opt/render/project/src
+cwd:/opt/render/project/src/database
+admin_group_id:Cbe4249d84f034648277f557ee9b36bea
